@@ -1,0 +1,24 @@
+{
+
+  "manifest_version": 2,
+  "name": "Blackandwhite",
+  "version": "1.0",
+
+  "description": "Adds a black and white filter",
+
+  "icons": {
+    "48": "icone.png"
+  },
+
+  "permissions": [
+  "activeTab",
+  "<all_urls>"
+  ],
+
+  "browser_action": {
+      "default_icon": "icone.png",
+      "default_title": "Blackandwhite",
+      "default_popup": "popup.html"
+    }
+
+}
