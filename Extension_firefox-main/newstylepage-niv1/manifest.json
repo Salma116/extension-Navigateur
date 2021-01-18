@@ -7,7 +7,7 @@
   "description": "change font, background, colors",
 
   "icons": {
-    "48": "icone.png"
+    "48": "icon.png"
   },
 
   "content_scripts": [
